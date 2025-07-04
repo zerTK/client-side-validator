@@ -36,8 +36,8 @@ How to Run the Validator
 
 2.  Verify that Node.js and npm are installed:
     ```bash
-    node -v # Expected: vX.X.X
-    npm -v  # Expected: X.X.X
+    node -v
+    npm -v
     ```
 
 3.  Install necessary project dependencies (TypeScript compiler):
